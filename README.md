@@ -22,6 +22,7 @@ Another frontend for Scratch.
    ```sh
    python interface.py
    ```
+   Some users may need to use ```flask --app interface run```
 
 ### Updating
 
